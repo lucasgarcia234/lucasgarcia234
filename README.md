@@ -1,16 +1,25 @@
-## Hi there 👋
+👨‍🎓 Lucas Garcia
 
-<!--
-**lucasgarcia234/lucasgarcia234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é Lucas Garcia, sou estudante de Ciência da Computação na Cruzeiro do Sul e estou em constante aprendizado no mundo da tecnologia.
+Atualmente, estou desenvolvendo minhas habilidades em programação e realizei alguns projetos acadêmicos que me ajudarão a aplicar os conceitos vistos em sala de aula.
 
-Here are some ideas to get you started:
+🚀 Tecnologias que já domino (básico/intermediário)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python 🐍 – programação de scripts e pequenos projetos acadêmicos.
+
+SQL 📊 – consultas simples e manipulação de banco de dados.
+
+HTML & CSS 🌐 – estruturação de páginas estáticas e primeiros sites.
+
+Excel 📑 – organização de dados, fórmulas e gráficos.
+
+📚 Projetos Universitários
+
+🔹 Sistema de Cadastro de Alunos (Python + SQLite)
+Projeto acadêmico simples para cadastrar e gerenciar informações de alunos.
+
+🔹 Dashboard Financeiro (Excel + Gráficos)
+Trabalho em grupo para análise de despesas pessoais e criação de relatórios dinâmicos.
+
+🔹 Página Estática – Portfólio Pessoal (HTML & CSS)
+Criação de uma página web simples para apresentação pessoal e contatos.
