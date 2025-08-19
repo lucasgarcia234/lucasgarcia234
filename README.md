@@ -1,5 +1,3 @@
-👨‍🎓 Lucas Garcia
-
 Olá! Meu nome é Lucas Garcia, sou estudante de Ciência da Computação na Cruzeiro do Sul e estou em constante aprendizado no mundo da tecnologia.
 Atualmente, estou desenvolvendo minhas habilidades em programação e realizei alguns projetos acadêmicos que me ajudarão a aplicar os conceitos vistos em sala de aula.
 
